@@ -1,17 +1,10 @@
-# weather_app
+# Weather App - clima
 
 Aplicativo de clima.
 
-## Getting Started
+## 📝 Descrição
+Este aplicativo foi cirado com o intuito de aprender a extrair o dados de uma api. Aplicativo simples, feito em um dia.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![logo](assets/icon.png)
+![tela principal1](assets/print.png)
+![tela principal2](assets/print1.png)
